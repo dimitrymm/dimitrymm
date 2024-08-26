@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning a lot about JavaScript and React <br>💬 Ask me about anything, let's be friends (or workers)
+🌱 I’m currently learning a lot about JavaScript and React <br>
 
 
 ## 🌐 Socials:
